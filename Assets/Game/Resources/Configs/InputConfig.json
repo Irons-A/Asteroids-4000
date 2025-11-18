@@ -1,0 +1,16 @@
+{
+  "AccelerateKey": "W",
+  "DecelerateKey": "S",
+  "ShootBulletKey": "Space",
+  "ShootLaserKey": "LeftShift",
+  "PauseKey": "Escape",
+  "GamepadHorizontalAxis": "Horizontal",
+  "GamepadVerticalAxis": "Vertical",
+  "GamepadRightStickHorizontal": "RightStickHorizontal",
+  "GamepadRightStickVertical": "RightStickVertical",
+  "GamepadShootBullet": "JoystickButton0",
+  "GamepadShootLaser": "JoystickButton1",
+  "GamepadPause": "JoystickButton7",
+  "GamepadDeadzone": 0.2,
+  "MouseRotationSensitivity": 1.0
+}

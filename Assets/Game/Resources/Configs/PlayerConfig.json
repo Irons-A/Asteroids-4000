@@ -1,0 +1,10 @@
+{
+  "AccelerationSpeed": 5.0,
+  "DecelerationSpeed": 2.0,
+  "TopSpeed": 10.0,
+  "RotationSpeed": 180.0,
+  "InitialLives": 3,
+  "BulletFireRate": 0.2,
+  "LaserCooldown": 2.0,
+  "LaserDuration": 0.5
+}
